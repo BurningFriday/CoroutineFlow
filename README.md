@@ -7,4 +7,3 @@ History
 ```
 
 관련 문서 : https://developer.android.com/kotlin/flow?hl=ko
-가이드 : https://www.youtube.com/watch?v=D8rUDoYCZlo&t=425s
